@@ -10,9 +10,7 @@ function App() {
           <div className="container">
             <article className="article">
               <h1 className="hero__title">React Components</h1>
-              <h3 className="hero__lead">
-                Team c13w09t05: Paolo Charca, Paul Bautista, Yonatan Carrillo
-              </h3>
+              <h3 className="hero__lead">Por : Paul Bautista</h3>
             </article>
           </div>
         </section>
